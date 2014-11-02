@@ -1,4 +1,4 @@
 Android_MHS_Git_Demo02
 ======================
 
-联系github
+1、我在学习github
